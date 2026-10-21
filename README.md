@@ -33,4 +33,4 @@ ai-architecture-portfolio/
 └── capstone/
 ```
 
-Repository: [mahmoud-mohsen97/ai-architecture-portfolio](https://github.com/mahmoud-mohsen97/ai-architecture-portfolio)
+Repository: [ma-mohsen/ai-architecture-portfolio](https://github.com/ma-mohsen/ai-architecture-portfolio)
